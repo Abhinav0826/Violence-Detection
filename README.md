@@ -4,6 +4,19 @@ This project implements a Violence Detection System using a Convolutional Neural
 
 The model works by extracting frames from input videos, preprocessing them (resizing and normalising), and training a CNN to perform classification. During prediction, the model evaluates video frames and determines whether the video contains violent activity based on the predicted probability.
 
+## Dataset
+
+The dataset used for this project is sourced from Kaggle. It contains videos categorized into:
+
+- Violence  
+- Non-Violence  
+
+**Dataset Link:**  
+https://www.kaggle.com/datasets/mohamedmustafa/real-life-violence-situations-dataset 
+
+The dataset is not included in this repository due to file size limitations.
+
+
 ## Methodology
 
 ### Data Preprocessing
