@@ -47,7 +47,8 @@ For a test video:
    Otherwise → **No Violence Detected**
 
 ## Block Output
-<img width="577" height="131" alt="Screenshot 2026-03-01 at 3 07 27 pm" src="https://github.com/user-attachments/assets/7a9a016a-c199-4ea3-addf-aa1a7f58bd01" />
+![Output](https://github.com/user-attachments/assets/9ca3de3d-b6da-4592-8d24-65d28b9fb909)
+
 
 
 ## Technologies Used
