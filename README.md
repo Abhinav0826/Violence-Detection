@@ -59,7 +59,7 @@ For a test video:
 4. If `max(prediction) > 0.5` → **Violence Detected**  
    Otherwise → **No Violence Detected**
 
-## Block Output
+## Output
 ![Output](https://github.com/user-attachments/assets/9ca3de3d-b6da-4592-8d24-65d28b9fb909)
 
 
