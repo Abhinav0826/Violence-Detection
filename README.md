@@ -1,7 +1,5 @@
 # Violence Detection using CNN (Keras + OpenCV)
 
-# Violence Detection using CNN (Keras + OpenCV)
-
 This project implements a Violence Detection System using a Convolutional Neural Network (CNN) built with Keras and OpenCV. The system analyzes video footage and automatically detects whether violence is present or not.
 
 The model works by extracting frames from input videos, preprocessing them (resizing and normalising), and training a CNN to perform classification. During prediction, the model evaluates video frames and determines whether the video contains violent activity based on the predicted probability.
